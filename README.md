@@ -15,7 +15,7 @@ This repo contains a keygen created by **patching the original binary**. It now 
 
 | File | Description |
 |------|-------------|
-| `crackme.exe` | Original binary |
+| `crackme(officialversion).exe` | Original binary |
 | `crackedversion.exe` | Fully patched app that accepts any username/password |
 | `keygen.exe` | The patched binary acting as a key generator |
 | `readme.1st` | Original CrackMe file |
